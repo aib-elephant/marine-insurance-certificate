@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none">
+  <path
+    d="M43 114 L28 22 L70 101 C62 96 46 89 27 89 C42 86 58 78 69 73 C73 72 72 82 74 91 C75 94 79 92 85 84 C96 71 113 48 134 29"
+    stroke="#0F172A"
+    stroke-width="2.1"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M101 32 L182 13"
+    stroke="#0F172A"
+    stroke-width="2.1"
+    stroke-linecap="round"
+  />
+</svg>

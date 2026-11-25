@@ -1,0 +1,6 @@
+{
+  "name": "Marine Insurance Certificate Builder",
+  "description": "Interactive Marine Insurance Certificate form, live A4 document preview, clause schedule manager, and CSV/PDF export workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
